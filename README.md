@@ -6,3 +6,4 @@ The following should open in chrome or mozilla:
 
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/charles-n/image-similarity/master/color_cluster1.html
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/charles-n/image-similarity/master/color_cluster2.html
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/charles-n/image-similarity/master/color_cluster3.html
