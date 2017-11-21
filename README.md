@@ -5,10 +5,13 @@ These similarity clusters were created through R using the color histogram metho
 The following might require forking htmlpreview.github, and should render the html in chrome or mozilla:
 
 apparel
+
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/charles-n/image-similarity/master/color_cluster1.html
 
 handbags
+
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/charles-n/image-similarity/master/color_cluster2.html
 
 shoes
+
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/charles-n/image-similarity/master/color_cluster3.html
